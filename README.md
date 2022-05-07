@@ -8,7 +8,7 @@ Image Captioning is the process of generating a textual description for given im
 Several approaches have been made to solve the task. One of the most notable works has been put forward by Andrej Karpathy, Director of AI, Tesla in his Ph.D. at Standford.
 
 Image captioning can be regarded as an end-to-end Sequence to Sequence problem, as it converts images, which are regarded as a sequence of pixels to a sequence of words. For this purpose, we need to process both the language or statements and the images, the result should be as the figure below.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Mahmoud3211/CSE616_image_captioning/blob/master/images/ic.png)
 ## Installation
 
 you can install requirements using 
@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ## Usage
 to use my trained model you need to download the checkpoint in this link:
 
-link
+https://drive.google.com/file/d/1Mm7PSXU_8UquzIMiyYXBTgFooJV8-Z8a/view?usp=sharing
 
 extract the contents and place them in the saved model within the same directory of the repo
 
